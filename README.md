@@ -5,7 +5,7 @@
 - 🦾 React | Typescript | Nextjs | Tailwindcss | SCSS | Redux
 - 🧲 Linkedin - in/esdras-silva-frontend
 
-<div style={{margin: "0 auto"}}>
+<div style={{margin: "0 auto", width: "fit-content"}}>
 	<a href="https://github.com/EsdrasLimaSilva" />
 	<img height="200px" src="https://github-readme-stats.vercel.app/api?username=EsdrasLimaSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 	<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsdrasLimaSilva&layout=compact&langs_count=16&theme=dark" />
