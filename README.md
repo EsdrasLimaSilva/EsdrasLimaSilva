@@ -1,8 +1,8 @@
 	
 #  Esdras Silva
 - Desenvolvedor front-end
-- Análise e Desenvolvimento de Sistemas
-- React | Typescript | Nextjs | Tailwindcss | SCSS | Redux | Java | Spring
+- Graduando em Análise e Desenvolvimento de Sistemas
+- HTML | CSS | Javascript | React | Typescript | Nextjs | Tailwindcss | Styled-Components| SCSS | Redux
 - Linkedin - in/esdras-silva-frontend
 
 <picture>
@@ -18,7 +18,4 @@
 </picture>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsdrasLimaSilva&hide_progress=true&theme=dark)](https://github.com/EsdrasLimaSilva/github-readme-stats)
-<!---
-EsdrasLimaSilva/EsdrasLimaSilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
