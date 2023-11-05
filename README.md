@@ -1,7 +1,7 @@
 <h1 align="center">Esdras Silva</h1>
 <h3 align="center">Engenheiro de dados</h3>
 
-- email **esdraslimasilva83@gmail.com**
+você pode entrar em contato via **esdraslimasilva83@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
