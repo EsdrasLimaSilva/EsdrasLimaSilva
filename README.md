@@ -1,9 +1,3 @@
-<h1 align="center">Esdras Silva</h1>
-<h3 align="center">Desenvolvedor Front-end</h3>
-
-Hi, how's it going? I'm Esdras, i am 22 years old, currently studying Analysis and Systems Development at [IFPB](https://www.ifpb.edu.br/) 
-. Here you'll find some repositories with Javascript/Typescript project and Others with Java and Python but currently i am persuing the Data Engeneering carrer.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/esdraslimasilva" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esdraslimasilva" height="30" width="40" /></a>
